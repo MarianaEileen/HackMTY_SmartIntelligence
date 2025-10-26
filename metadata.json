@@ -1,0 +1,7 @@
+{
+  "name": "Gate Group - Optimización de Catering",
+  "description": "Una aplicación para estandarizar y optimizar las operaciones de catering de Gate Group, incluyendo predicción de consumo, gestión de caducidad mediante escaneo QR y estimación de productividad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
